@@ -1,4 +1,4 @@
-# Free My Financials SAM /* Replace this line with the title of your project */
+# Free My Financials SAM
 
 ## **Summary**
 
@@ -18,8 +18,8 @@ Put a very high-level summary of the project.
 WHATEVER COMPANY or CORRESPONDENCE
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Nicolas Egierski
+
 
 ## **Links**
 
