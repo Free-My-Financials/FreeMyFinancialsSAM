@@ -10,4 +10,7 @@
 
 Client's requirements required using aws.
 
-## Services:
+## Services
+
+Google Identity
+Plaid API
