@@ -1,13 +1,13 @@
 # Tech Stack
 
-## Language: [Nuxt](https://nuxt.com) ([Vue.js](https://vuejs.org))
+## Language: Typescript, HTML, SCSS
 
+[Nuxt](https://nuxt.com) ([Vue.js](https://vuejs.org))
 
-## Database:
-
+## Database: POSTGRES
 
 ## Hosting: [AWS](https://aws.amazon.com)
+
 Client's requirements required using aws.
 
 ## Services:
-
