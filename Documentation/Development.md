@@ -22,7 +22,7 @@
 
 3. Accept all recommended extensions from the popup on the bottom right
 
-4. Open a new terminal in VSCode with `Ctrl + Shift + \``
+4. Open a new terminal in VSCode (Ctrl + Shift + `)
 
 5. Move in to the web directory
 
