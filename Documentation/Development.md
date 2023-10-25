@@ -12,16 +12,25 @@
 
     ```bash
     git clone https://github.com/Free-My-Financials/free-my-financials.git
-    cd free-my-financials
     ```
 
-2. Move in to the web directory
+2. Open the repository in VSCode
+
+    ```bash
+    code free-my-financials
+    ```
+
+3. Accept all recommended extensions from the popup on the bottom right
+
+4. Open a new terminal in VSCode with `Ctrl + Shift + \``
+
+5. Move in to the web directory
 
     ```bash
     cd web
     ```
 
-3. Install dependencies
+6. Install dependencies
 
     ```bash
     npm install -D
