@@ -13,3 +13,5 @@
 - UC2 - Budget over time - Treasurers for an organization will set a time frame for a budget so it can more closely match the schedule of the organization. As their plan changes over time, they will be able to update the budget to reflect the changes. BR1
 
 - UC3 - Financial Goals - A user will set a goal for a specific amount of money they want to save. The tool will then help them track their progress towards that goal. BR1
+
+- UC4 - Educational - People with a paycheck-to-paycheck mentality learn more about budgeting and begin to use a cashflow approach. BR2
