@@ -2,38 +2,31 @@
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+Free My Financials SAM is a web based budgeting app that equips users and teams with the necessary knowledge and tools to master their financial budgeting challenges and save money to reach their long-term goals.
 
 ## **Team Members**
 
 - Dennis Beaver
+- Jeffrey Harmon
 - Pandora Roberts
-- Jeffery Harmon
-- Grant Witty
 - William Withers
+- Grant Witty
 
 ## **Client Partner Information**
 
-### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
-
 ### *People:*
-- Nicolas Egierski
 
+- Nicolas Egierski
 
 ## **Links**
 
-- [Project description](ProjectDescription.md)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 
-
 ## **Code Repositories**
 
 - [Web App - Web](https://github.com/Free-My-Financials/free-my-financials)
-- [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
-- Others if more.
 
 # Deployment
 
