@@ -31,7 +31,10 @@ WHATEVER COMPANY or CORRESPONDENCE
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.github.com/WHEREEVER_THE_ANDROID_CODE_IS/)
+- [Web App - Web](https://github.com/Free-My-Financials/free-my-financials)
 - [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
 - Others if more.
 
+# Deployment
+
+- [Netlify](https://free-my-financials.netlify.app/)
