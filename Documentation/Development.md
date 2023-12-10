@@ -51,6 +51,12 @@
     npm run dev
     ```
 
+5. Test the project
+
+    ```bash
+    npm run test
+    ```
+
 ## Running with Docker
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
