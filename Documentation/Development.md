@@ -8,6 +8,7 @@
 ### Local
 
 - [Node.js LTS v20](https://nodejs.org/en/)
+- [Docker + Docker Compose](https://docs.docker.com/desktop/)
 
 ### Docker
 
@@ -33,25 +34,39 @@
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
-2. Move in to the web directory
+2.  Start the data base
+   
+   ```bash
+    docker compose -f docker-compose.dev.yaml up --build db
+   ```
+
+3.   Open a new terminal in VSCode (Ctrl + Shift + `)
+
+4. Move in to the web directory
 
     ```bash
     cd web
     ```
 
-3. Install dependencies
+5. Install dependencies
+    
+    ```bash
+    npm install -D
+    ```
+    
+6. Initialize Prisma
 
     ```bash
     npm install -D
     ```
 
-4. Run the project
+7. Run the project
 
     ```bash
-    npm run dev
+    npm run prisma-init
     ```
 
-5. Test the project
+8. Test the project
 
     ```bash
     npm run test
