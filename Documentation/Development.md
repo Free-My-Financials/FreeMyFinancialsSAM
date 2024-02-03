@@ -30,11 +30,15 @@
 
 3. Accept all recommended extensions from the popup on the bottom right
 
+4. In the web directory, create a file called .env. Copy and paste the content of .example.env to .env. Also create a github clientId and secretId in Github and add those to the .env file.
+
 ## Running Locally
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
-2.  Start the data base
+2. Open the Docker Desktop Client. 
+
+3.  Start the data base
    
    ```bash
     docker compose -f docker-compose.dev.yaml up --build db
