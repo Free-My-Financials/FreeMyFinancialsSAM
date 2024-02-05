@@ -61,13 +61,13 @@
 6. Initialize Prisma
 
     ```bash
-    npm install -D
+    npm run prisma-init
     ```
 
 7. Run the project
 
     ```bash
-    npm run prisma-init
+    npm run dev
     ```
 
 8. Test the project
