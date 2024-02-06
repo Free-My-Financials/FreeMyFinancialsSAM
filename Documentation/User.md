@@ -2,7 +2,7 @@
 
 - Click on the link the the webpage. You will be welcomed to this page:
 ![WelcomePage](welcomepage.PNG)
-- From here you can read about the various features, and click on the links in the description to go to that page. The get started button takes you to the edit budget page.
+- From here you can read about the various features, and click on the get started button to be sent to a login page, with a button to allow you to login with a github account, please do this in order to be able to access any of the other resources.
 - To navigate to pages, click on any of the messages on the top green bar. Free My Financials takes you to the home page. Add Transaction takes you to the add page. View Transactions takes you to the budgeting page. Edit budget takes you to a page to edit budget amount and dates. View budget lets you view that budget. Calender places transactions on various dates.
 ![ClickNav](hoverovertransaction.PNG)
 - To use Free My Financials, you need to add transactions, including paychecks, to record your budget! A budget is simply the amount of money you have. The Add Page allows you to select from a drop down if the transaction is a expense or an income. You can then type out all the other requested information and hit submit to record the transaction. Here is an example paycheck
