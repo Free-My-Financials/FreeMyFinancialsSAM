@@ -76,6 +76,12 @@
     npm run test
     ```
 
+9. Test the project with coverage
+
+    ```bash
+    npm run coverage
+    ```
+
 ## Running with Docker
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
