@@ -46,37 +46,31 @@
 
 3.   Open a new terminal in VSCode (Ctrl + Shift + `)
 
-4. Move in to the web directory
-
-    ```bash
-    cd web
-    ```
-
-5. Install dependencies
+4. Install dependencies
     
     ```bash
     npm install -D
     ```
     
-6. Initialize Prisma
+5. Initialize Prisma
 
     ```bash
     npm run prisma-init
     ```
 
-7. Run the project
+6. Run the project
 
     ```bash
     npm run dev
     ```
 
-8. Test the project
+7. Test the project
 
     ```bash
     npm run test
     ```
 
-9. Test the project with coverage
+8. Test the project with coverage
 
     ```bash
     npm run coverage
