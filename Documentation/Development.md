@@ -106,4 +106,4 @@
 
 ## Viewing the website
 
-Open http://localhost:3000 in your browser to view the project
+Open http://localhost:5000 in your browser to view the project
