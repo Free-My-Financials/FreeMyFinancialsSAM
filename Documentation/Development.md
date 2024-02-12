@@ -100,8 +100,8 @@
 
    ```bash
    cd web
-   npm run lint // Checks for errors
-   npm run format // Attempts to fix errors
+   npm run lint 
+   npm run format
    ```
 
 ## Viewing the website
