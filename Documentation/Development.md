@@ -86,7 +86,7 @@
     docker compose -f docker-compose.dev.yaml up --build
     ```
 
-## Running with Linter
+## Linting
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
