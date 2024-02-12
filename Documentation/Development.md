@@ -99,8 +99,9 @@
 2. Run the project with ESLint
 
    ```bash
-   npm run lint
-   npm run format
+   cd web
+   npm run lint // Checks for errors
+   npm run format // Attempts to fix errors
    ```
 
 ## Viewing the website
