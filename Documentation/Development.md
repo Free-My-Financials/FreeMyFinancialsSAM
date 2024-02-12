@@ -92,6 +92,17 @@
     docker compose -f docker-compose.dev.yaml up --build
     ```
 
+## Running with Linter
+
+1. Open a new terminal in VSCode (Ctrl + Shift + `)
+
+2. Run the project with ESLint
+
+   ```bash
+   npm run lint
+   npm run format
+   ```
+
 ## Viewing the website
 
 Open http://localhost:3000 in your browser to view the project
