@@ -30,7 +30,7 @@
 
 3. Accept all recommended extensions from the popup on the bottom right
 
-4. In the web directory, create a file called .env. Copy and paste the content of .example.env to .env. Also create a github clientId and secretId in Github and add those to the .env file.
+4. Create a file called .env. Copy and paste the content of .example.env to .env. Also create a github clientId and secretId in Github and add those to the .env file.
 
 ## Running Locally
 
@@ -93,7 +93,6 @@
 2. Run the project with ESLint
 
    ```bash
-   cd web
    npm run lint 
    npm run format
    ```
