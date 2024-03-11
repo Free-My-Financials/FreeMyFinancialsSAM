@@ -17,5 +17,5 @@
 - In the view budget panel, you have a view similar to history, but the total is based on how much was put into the specific budget
 ![cak](cal.PNG)
 - The calendar view places transactions on the date they occured in a traditional calander view.
-
+- To create multiple budgets, create a new budget and check the, "Click to create a new budget", checkbox. To view the new budget, go to the View Budget page and click on the new budget in the dropdown.
 
