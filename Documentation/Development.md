@@ -4,6 +4,7 @@
 
 - [Git](https://git-scm.com/) / [Git Bash](https://gitforwindows.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [OpenSSH](https://www.openssh.com/) (Windows)
 
 ### Local
 
@@ -97,7 +98,7 @@
    npm run format
    ```
 
-## Connect to AWS (Mac & Linux)
+## Connect to AWS
 
 1. Open a new terminal
 
