@@ -98,6 +98,14 @@
    npm run format
    ```
 
+## OpenSSH (For Windows Users Only)
+
+1. Install OpenSSH in Powershell using the following command
+
+   ```bash
+   Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0
+   ```
+
 ## Connect to AWS
 
 1. Open a new terminal
