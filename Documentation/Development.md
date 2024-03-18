@@ -110,16 +110,10 @@
 
 1. Open a new terminal
 
-2. Verify they key pair with chmod 400
-
-   ```bash
-   chmod 400 fmfsam.pem
-   ```
-
 3. Connect to the AWS instance using ssh
 
    ```bash
-   ssh -i fmfsam.pem ec2-user@18.222.184.241
+   ssh ec2-user@18.222.184.241
    ```
 
 4. To disconnect, type exit
