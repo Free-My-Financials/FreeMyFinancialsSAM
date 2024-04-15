@@ -125,3 +125,21 @@
 ## Viewing the website
 
 Open http://localhost:5000 in your browser to view the project
+
+# Setting up Ouath
+Create a new new project at https://console.cloud.google.com
+Setup the OAuth Consent Screen
+Go to the Credentials page
+Click +Create Credentials / OAuth Client ID
+Application type web
+Set the Authorized redirect URI to http://localhost:3000/auth/login/google/callback
+Replace the github values in your .env with your new id and secret like so:
+
+GOOGLE_CLIENT_ID="value_of_google_client_id"
+GOOGLE_CLIENT_SECRET="value_of_google_client_secret"
+
+With the database running, run the following command
+
+npx prisma migrate reset
+
+If this doesnt work try rebuilding the database.
