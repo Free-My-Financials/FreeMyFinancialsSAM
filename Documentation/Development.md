@@ -37,41 +37,41 @@
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
-2. Open the Docker Desktop Client. 
+1. Open the Docker Desktop Client.
 
-3.  Start the data base
-   
+1. Start the database
+
    ```bash
     docker compose -f docker-compose.dev.yaml up --build db
    ```
 
-3.   Open a new terminal in VSCode (Ctrl + Shift + `)
+1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
-4. Install dependencies
-    
+1. Install dependencies
+
     ```bash
     npm install -D
     ```
-    
-5. Initialize Prisma
+
+1. Initialize Prisma
 
     ```bash
     npm run prisma-init
     ```
 
-6. Run the project
+1. Run the project
 
     ```bash
     npm run dev
     ```
 
-7. Test the project
+1. Test the project
 
     ```bash
     npm run test
     ```
 
-8. Test the project with coverage
+1. Test the project with coverage
 
     ```bash
     npm run coverage
@@ -81,7 +81,7 @@
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
-2. Run the project with docker compose
+1. Run the project with docker compose
 
     ```bash
     docker compose -f docker-compose.dev.yaml up --build
@@ -91,7 +91,7 @@
 
 1. Open a new terminal in VSCode (Ctrl + Shift + `)
 
-2. Run the project with ESLint
+1. Run the project with ESLint
 
    ```bash
    npm run lint 
@@ -106,40 +106,29 @@
    Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0
    ```
 
-## Connect to AWS
-
-1. Open a new terminal
-
-3. Connect to the AWS instance using ssh
-
-   ```bash
-   ssh ec2-user@18.222.184.241
-   ```
-
-4. To disconnect, type exit
-
-   ```bash
-   exit
-   ```
-
 ## Viewing the website
 
-Open http://localhost:5000 in your browser to view the project
+Open <http://localhost:3000> in your browser to view the project
 
-# Setting up Ouath
-Create a new new project at https://console.cloud.google.com
+## Setting up OAuth
+
+Create a new new project at <https://console.cloud.google.com>
 Setup the OAuth Consent Screen
 Go to the Credentials page
-Click +Create Credentials / OAuth Client ID
+Click `+Create Credentials / OAuth Client ID`
 Application type web
-Set the Authorized redirect URI to http://localhost:3000/auth/login/google/callback
+Set the Authorized redirect URI to <http://localhost:3000/auth/login/google/callback>
 Replace the github values in your .env with your new id and secret like so:
 
+```bash
 GOOGLE_CLIENT_ID="value_of_google_client_id"
 GOOGLE_CLIENT_SECRET="value_of_google_client_secret"
+```
 
 With the database running, run the following command
 
+```bash
 npx prisma migrate reset
+```
 
-If this doesnt work try rebuilding the database.
+If this doesn't work try rebuilding the database.
