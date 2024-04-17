@@ -3,15 +3,15 @@
 
 ## Visitors
 - Evyn king
-![EvynKing](EvynKing.JPG)
+![EvynKing](EvynKing.jpg)
 - Megan Stinefield
-![MeganStinefield](MeganStinefield.JPG)
+![MeganStinefield](MeganStinefield.jpg)
 - Conner Um
-![ConnerUm](ConnerUm.JPG)
+![ConnerUm](ConnerUm.jpg)
 - Logan Parker
-![LoganParker](LoganParker.JPG) 
+![LoganParker](LoganParker.jpg) 
 - Sara Vasquez
-![SaraVasquz](SaraVasquez.JPG)
+![SaraVasquz](SaraVasquez.jpg)
 
 
 ## Our Experiences
