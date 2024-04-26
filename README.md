@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-Free My Financials SAM is a web based budgeting app that equips users and teams with the necessary knowledge and tools to master their financial budgeting challenges and save money to reach their long-term goals.
+Free My Financials is a web based budgeting app that equips users and teams with the necessary knowledge and tools to master their financial budgeting challenges and save money to reach their long-term goals.
 
 ## **Team Members**
 
@@ -27,7 +27,3 @@ Free My Financials SAM is a web based budgeting app that equips users and teams 
 ## **Code Repositories**
 
 - [Web App - Web](https://github.com/Free-My-Financials/free-my-financials)
-
-# Deployment
-
-- [Netlify](https://free-my-financials.netlify.app/)
