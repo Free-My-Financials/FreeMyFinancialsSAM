@@ -24,3 +24,6 @@
 
 - Dennis
   - I was also unable to attend the symposium, but upon talking to friends and peers from our course, it seemed like our group's experiences pretty much matched theirs. I think the symposium, and other presentation events like it, are important to help our group network. Networking is something that we've heard from our mentor time and time again during our meetings, and being able to show off the software that we've worked so hard on and here the feedback of people unattached from our work helps to give us some unbiased notes.
+ 
+- Jeffrey
+  - I attended the student symposium for a different project. I enjoyed getting to show off a project that I had invested a lot of time and effort in and talking about the process that led to the result they saw. I was unaware of the judges going in to the event, but I enjoyed their questions and interest in the project.
