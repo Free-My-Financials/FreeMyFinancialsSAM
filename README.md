@@ -23,6 +23,7 @@ Free My Financials is a web based budgeting app that equips users and teams with
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [Deployment Guide](Documentation/Deployment.md)
 
 ## **Code Repositories**
 
